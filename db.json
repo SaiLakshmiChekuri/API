@@ -29,7 +29,7 @@
     ,"image": "https://cdn2.penguin.com.au/covers/original/9781409350156.jpg","rating": {"rate": 3.9,"count": 120},"author":"Penguin Mark"},
     {   "id": 19,  "title": "Surely, You are Joking","price": 85.98,"description": " Feynman's life in all its eccentricÂa combustible mixture of high intelligence, unlimited curiosity, and raging chutzpah","genre": "Biography","ISBN": "0393019217"
     ,"image": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/3930/9780393019216.jpg","rating":{"rate": 3.9,"count": 120},"author":"Richard P.Fennyman"},{"id": 20,"title": "A Brief History of Time","price": 75.95,"description": "From the Big Bang to Black Holes is a popular-science book on cosmology (the study of the universe) by British physicist Stephen Hawking","genre": "Popular Science","ISBN": "978-1-7923-7442-5"
-    ,"image": "https://images-eu.ssl-images-amazon.com/images/I/5152J9Z956L.jpg","rating": {"rate": 3.9,"count": 120},"author":"Stephen Hawking"},
+    ,"image": "https://images-eu.ssl-images-amazon.com/images/I/5152J9Z956L.jpg","rating": {"rate": 3.9,"count": 120},"author":"Stephen Hawking"}
     
 ]
     }
